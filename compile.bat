@@ -1,0 +1,1 @@
+.\web3j.bat generate solidity -a .\solc\sol.abi -b .\solc\sol.bin -o .\output -p {classname}
